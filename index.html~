@@ -117,13 +117,13 @@ window.onload = function() {
 <div>По-перше вам потрібен сам JOSM!<br /><br /><em><a href="https://josm.openstreetmap.de/wiki/Uk%3AWikiStart">http://josm.openstreetmap.de/</a></em></div>
 <div>По-друге обліковий запис OSM</div>
 <div>Для початку:<br /><br /> як вирівняти криво накреслений будинок?<br /><br />Іноді для цього достатньо натиснути <em><b>Q</b></em>, і всі кути відразу стануть рівними 90° </div>
-<div class='actualsizeimage'>
+<div>
   <img src='Menu_Tools.jpg'/> 
 </div>
-<div class='actualsizeimage'>
+<div>
   <img src='Before_Q.jpg'/>
 </div>
-<div class='actualsizeimage'>
+<div>
   <img src='After_Q.jpg'>
 </div>
 
